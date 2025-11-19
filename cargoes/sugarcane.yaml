@@ -1,0 +1,17 @@
+abbreviation: SC
+available: false
+classes: 4112
+colour: 207
+id: 0
+label: SGCN
+longName: sugarcane
+name: Sugarcane
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/sugarcane.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16
